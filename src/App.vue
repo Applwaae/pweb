@@ -37,11 +37,11 @@ const projects = ref([
   },
   {
     id: 2,
-    title: "AI chatting robot",
-    description: "An AI-powered chatting robot that can assist you",
+    title: "AI STEM tutor",
+    description: "An AI-powered STEM tutor that can answer all your questions",
     image: "/p2-preview.png",
     links: [
-      { "text": "Visit Website", "url": "https://aichatbot-9fahrsv79da58puyzmoce6.streamlit.app/" },
+      { "text": "Visit Website", "url": "https://stemtutor-qqt3iupdmcofunt6zdglt9.streamlit.app/" },
       { "text": "GitHub", "url": "https://github.com/Applwaae/aichatbot" }
     ]
   }
