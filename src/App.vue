@@ -274,7 +274,7 @@ function handleMouseLeave(event) {
             <li><strong>Harrow International School Hong Kong</strong>, Hong Kong, Grade 11 - 12 (2024-Present)
               <ul>
                 <li><span class="highlight-prominent">TOEFL</span>: <span class="highlight-prominent">112</span></li>
-                <li><span class="highlight-prominent">SAT</span>: <span class="highlight-prominent">1540 (Reading and Writing 780; Math 760)</span></li>
+                <li><span class="highlight-prominent">SAT</span>: <span class="highlight-prominent">1580 (Reading and Writing 780; Math 800)</span></li>
               </ul>
             </li>
             <li><strong>Diocesan Girls' School</strong>, Hong Kong, Grades 9 -11 (2022-2024)</li>
@@ -288,7 +288,7 @@ function handleMouseLeave(event) {
             <li><strong>Research on Renewable Energy</strong>, Research Assistance (2025)
               <ul>
                 <li>Studied on various renewable energy and technologies under the guidance of Prof. Nasr Ghoniem at UCLA</li>
-                <li><span class="highlight-prominent">Produced a research report on “Review and Design of a Wave Energy Conversion System” and earned a grade A</span></li>
+                <li><span class="highlight-prominent">Produced a research report on “Review and Design of a Wave Energy Conversion System”</span></li>
                 <li>Link: <a href="https://www.researchgate.net/publication/394143469_Review_and_Design_of_a_Wave_Energy_Conversion_System" target="_blank">Review and Design of a Wave Energy Conversion System</a></li>
               </ul>
             </li>
